@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <title>building4</title>
+  <g>
+    <rect width="500" height="500" fill="#323232"/>
+    <g>
+      <path d="M244.524,163h-37V126h37Zm-33-4h29V130h-29Z" fill="#999"/>
+      <g>
+        <rect x="257.191" y="128" width="33" height="33" fill="#ffcb05"/>
+        <path d="M292.19,163h-37V126h37Zm-33-4h29V130h-29Z" fill="#999"/>
+      </g>
+      <path d="M196.857,393h-37V356h37Zm-33-4h29V360h-29Z" fill="#999"/>
+      <g>
+        <rect x="304.857" y="358" width="33" height="33" fill="#ffcb05"/>
+        <path d="M339.857,393h-37V356h37Zm-33-4h29V360h-29Z" fill="#999"/>
+      </g>
+      <g>
+        <rect x="161.857" y="174" width="33" height="33" fill="#ffcb05"/>
+        <path d="M196.857,209h-37V172h37Zm-33-4h29V176h-29Z" fill="#999"/>
+      </g>
+      <path d="M244.524,209h-37V172h37Zm-33-4h29V176h-29Z" fill="#999"/>
+      <g>
+        <rect x="257.191" y="174" width="33" height="33" fill="#ffcb05"/>
+        <path d="M292.19,209h-37V172h37Zm-33-4h29V176h-29Z" fill="#999"/>
+      </g>
+      <path d="M339.857,209h-37V172h37Zm-33-4h29V176h-29Z" fill="#999"/>
+      <path d="M196.857,255h-37V218h37Zm-33-4h29V222h-29Z" fill="#999"/>
+      <g>
+        <rect x="209.524" y="220" width="33" height="33" fill="#ffcb05"/>
+        <path d="M244.524,255h-37V218h37Zm-33-4h29V222h-29Z" fill="#999"/>
+      </g>
+      <path d="M292.19,255h-37V218h37Zm-33-4h29V222h-29Z" fill="#999"/>
+      <g>
+        <rect x="304.857" y="220" width="33" height="33" fill="#ffcb05"/>
+        <path d="M339.857,255h-37V218h37Zm-33-4h29V222h-29Z" fill="#999"/>
+      </g>
+      <g>
+        <rect x="161.857" y="266" width="33" height="33" fill="#ffcb05"/>
+        <path d="M196.857,301h-37V264h37Zm-33-4h29V268h-29Z" fill="#999"/>
+      </g>
+      <path d="M244.524,301h-37V264h37Zm-33-4h29V268h-29Z" fill="#999"/>
+      <g>
+        <rect x="257.191" y="266" width="33" height="33" fill="#ffcb05"/>
+        <path d="M292.19,301h-37V264h37Zm-33-4h29V268h-29Z" fill="#999"/>
+      </g>
+      <g>
+        <rect x="304.857" y="266" width="33" height="33" fill="#ffcb05"/>
+        <path d="M339.857,301h-37V264h37Zm-33-4h29V268h-29Z" fill="#999"/>
+      </g>
+      <g>
+        <rect x="161.857" y="312" width="33" height="33" fill="#ffcb05"/>
+        <path d="M196.857,347h-37V310h37Zm-33-4h29V314h-29Z" fill="#999"/>
+      </g>
+      <g>
+        <rect x="209.524" y="312" width="33" height="33" fill="#ffcb05"/>
+        <path d="M244.524,347h-37V310h37Zm-33-4h29V314h-29Z" fill="#999"/>
+      </g>
+      <path d="M292.19,347h-37V310h37Zm-33-4h29V314h-29Z" fill="#999"/>
+      <path d="M339.857,347h-37V310h37Zm-33-4h29V314h-29Z" fill="#999"/>
+      <path d="M354.243,419H288.857V371a10.011,10.011,0,0,0-10-10h-58a10.012,10.012,0,0,0-10,10v48h-65l-.1-250.422L198.314,113h1.543l102.437.346,51.949,55.928Zm-61.386-4h57.386V170.845l-49.7-53.5L200.036,117,149.757,170.17l.1,244.83h57V371a14.016,14.016,0,0,1,14-14h58a14.015,14.015,0,0,1,14,14Z" fill="#999"/>
+      <rect x="247.857" y="89" width="4" height="27" fill="#999"/>
+      <path d="M249.857,93a6,6,0,1,1,6-6A6.007,6.007,0,0,1,249.857,93Zm0-8a2,2,0,1,0,2,2A2,2,0,0,0,249.857,85Z" fill="#999"/>
+    </g>
+  </g>
+</svg>
