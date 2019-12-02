@@ -1,10 +1,11 @@
-body{
-  margin:0px;
-  background-color:  white;
+body {
+  margin: 0px;
+  background-color: rgb(242, 242, 242);
+  width: 100vw;
+  height: 3000px;
 }
 
-
-.banner{
+.banner {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -14,37 +15,37 @@ body{
   background-color: white;
 }
 
-.hero{
-display: flex;
-position: absolute;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
-width: 100vw;
-height: 480px;
-background-image: url(images/hero.jpg);
-background-position: bottom;
-background-size: cover;
-padding-left: 5%;
-color: white;
-font-family: 'Comfortaa', sans-serif;
-font-size: 50px;
-text-align: left;
-line-height: 170%;
+.hero {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100vw;
+  height: 480px;
+  background-image: url(images/hero.jpg);
+  background-position: bottom;
+  background-size: cover;
+  padding-left: 5%;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 50px;
+  text-align: left;
+  line-height: 170%;
 }
 
-.stats{
+.stats {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   position: absolute;
-  top:630px;
+  top: 630px;
   width: 100vw;
   height: 500px;
   background-color: white;
 }
 
-.statstext{
+.statstext {
   display: block;
   position: absolute;
   right: 10px;
@@ -58,30 +59,28 @@ line-height: 170%;
   align-items: center;
   padding-top: 215px;
   text-decoration: none;
-
 }
 
-a{
+a {
   text-decoration: none;
-  font-size:15px;
-
+  font-size: 15px;
 }
 
-sup{
+sup {
   color: lightgray;
   text-decoration: none;
 }
-@keyframes decay{
-  0%{background-image: url(images/stage1.svg);}
-  25%{background-image: url(images/stage2.svg);}
-  50%{background-image: url(images/stage3.svg);}
-  75%{background-image: url(images/stage4.svg);}
-  90%{background-image: url(images/stage4.svg);}
-  100%{background-image: url(images/stage1.svg);}
 
+@keyframes decay {
+  0% {background-image: url(images/stage1.svg);}
+  25% {background-image: url(images/stage2.svg);}
+  50% {background-image: url(images/stage3.svg);}
+  75% {background-image: url(images/stage4.svg);}
+  90% {background-image: url(images/stage4.svg);}
+  100% {background-image: url(images/stage1.svg);}
 }
 
-.statsimg{
+.statsimg {
   display: block;
   position: absolute;
   left: 90px;
@@ -92,34 +91,32 @@ sup{
   animation-name: decay;
   animation-duration: 10s;
   animation-iteration-count: infinite;
-
 }
 
-.urbanstat{
+.urbanstat {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   position: absolute;
-  top:1130px;
+  top: 1130px;
   width: 100vw;
   height: 500px;
   background-color: rgb(50, 50, 50);
 }
 
-@keyframes fillup{
-  0%{background-image: url(images/building1.svg);}
-  20%{background-image: url(images/building1.svg);}
-  25%{background-image: url(images/building2.svg);}
-  45%{background-image: url(images/building2.svg);}
-  50%{background-image: url(images/building3.svg);}
-  70%{background-image: url(images/building3.svg);}
-  75%{background-image: url(images/building4.svg);}
-  90%{background-image: url(images/building4.svg);}
-  100%{background-image: url(images/building1.svg);}
-
+@keyframes fillup {
+  0% {background-image: url(images/building1.svg);}
+  20% {background-image: url(images/building1.svg);}
+  25% {background-image: url(images/building2.svg);}
+  45% {background-image: url(images/building2.svg);}
+  50% {background-image: url(images/building3.svg);}
+  70% {background-image: url(images/building3.svg);}
+  75% {background-image: url(images/building4.svg);}
+  90% {background-image: url(images/building4.svg);}
+  100% {background-image: url(images/building1.svg);}
 }
 
-.urbanimg{
+.urbanimg {
   display: block;
   position: absolute;
   right: 50px;
@@ -131,7 +128,7 @@ sup{
   animation-iteration-count: infinite;
 }
 
-.urbantext{
+.urbantext {
   display: block;
   position: absolute;
   left: 90px;
@@ -147,15 +144,32 @@ sup{
   text-decoration: none;
 }
 
-
-.diff{
+.bed {
   display: block;
   position: absolute;
-  top:1630px;
+  top: 1630px;
   width: 100vw;
-  height:400px;
+  height: 400px;
   padding-left: 5%;
-  padding-top: 120px;
+  padding-top: 100px;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 50px;
+  text-align: left;
+  line-height: 170%;
+  background-position: bottom;
+  background-image: url(images/beds.jpg);
+  background-size: cover;
+}
+
+.breakfast {
+  display: block;
+  position: absolute;
+  top: 2580px;
+  width: 100vw;
+  height: 400px;
+  padding-left: 5%;
+  padding-top: 100px;
   color: white;
   font-family: 'Comfortaa', sans-serif;
   font-size: 50px;
